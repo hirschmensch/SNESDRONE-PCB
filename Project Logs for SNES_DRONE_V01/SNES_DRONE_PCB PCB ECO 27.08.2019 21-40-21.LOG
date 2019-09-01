@@ -1,0 +1,200 @@
+Change Component Description : Designator=P1 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Change Component Description : Designator=P2 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Change Component Description : Designator=P3 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Change Component Description : Designator=P4 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Change Component Description : Designator=P5 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Change Component Description : Designator=P6 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Change Component Description : Designator=P7 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Change Component Description : Designator=P8 Old Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?) New Description=Shaft Diameter – 6mm (0.2?)
+Shaft Length – 15mm (0.59?)
+Added Component: Designator=C5(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/avx/04025c103kat2a/kondensator-0-01-f-50v-10-x7r/dp/2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.156697970.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2237835.pdf?_ga=2.110684748.876692561.1541506444-1931041576.1541506444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "2332514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "04025C103KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332514RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C24(0402_RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1901289.pdf?_ga=2.126104776.453785206.1540794792-1293375253.1539206166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/multicomp/mc0402x104k160ct/kondensator-0-1-f-16v-10-x5r-0402/dp/1759388?st=1%C2%B5F%20SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2046096.pdf?_ga=2.184862249.1080119096.1514547302-1693477411.1514385574"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "farnell number"; Value = "1759388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MC0402X104K160CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1760121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0226"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n/16V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603_DNP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "dnp"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=MCU_POT0 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=MCU_POT1 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=MCU_POT2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=MCU_POT3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=MCU_POT4 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=MCU_POT5 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=MCU_POT6 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=MCU_POT7 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=+3V3 Pin=C24-2
+Added Pin To Net: NetName=+3V3 Pin=P1-1
+Added Pin To Net: NetName=+3V3 Pin=P2-1
+Added Pin To Net: NetName=+3V3 Pin=P3-1
+Added Pin To Net: NetName=+3V3 Pin=P4-1
+Added Pin To Net: NetName=+3V3 Pin=P5-1
+Added Pin To Net: NetName=+3V3 Pin=P6-1
+Added Pin To Net: NetName=+3V3 Pin=P7-1
+Added Pin To Net: NetName=+3V3 Pin=P8-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C5 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C6 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C7 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C8 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C9 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C10 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C11 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_GPIO Member=Component C12 10n/50V
+Added Member To Class: ClassName=U_SNES_DRONE_PSU Member=Component C24 100n/16V
+Added Member To Class: ClassName=U_SNES_DRONE_MCU Member=Component R3 DNP

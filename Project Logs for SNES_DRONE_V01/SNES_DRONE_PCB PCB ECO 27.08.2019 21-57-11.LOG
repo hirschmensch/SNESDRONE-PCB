@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R3-2
+Removed Member From Class: ClassName=U_SNES_DRONE_MCU Member=R3
