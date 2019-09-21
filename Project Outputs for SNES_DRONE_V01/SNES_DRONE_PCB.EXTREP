@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: SNES_DRONE_PCB.GBR   21.09.2019  21:57:44
+Gerber File Extension Report For: SNES_DRONE_PCB.GBR   21.09.2019  22:27:27
 ------------------------------------------------------------------------------------------
 
 
@@ -12,5 +12,6 @@ Layer Extension     Layer Description
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
+.GM2                Edge Connector Area                     
 .GM12               Board Outline                           
 ------------------------------------------------------------------------------------------

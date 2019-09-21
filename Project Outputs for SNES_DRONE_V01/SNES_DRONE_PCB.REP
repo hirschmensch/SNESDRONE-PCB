@@ -13,6 +13,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Edge Connector Area
+      File : SNES_DRONE_PCB.GM2
+
+    Adding Layer      : Edge Connector Area
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : SNES_DRONE_PCB.GBO
 
