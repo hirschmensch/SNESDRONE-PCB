@@ -1,0 +1,445 @@
+Removed Pin From Net: NetName=MCU_POT0 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=MCU_POT1 Pin=C6-2
+Removed Pin From Net: NetName=MCU_POT2 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=MCU_POT3 Pin=C8-2
+Removed Pin From Net: NetName=MCU_POT4 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=MCU_POT5 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=MCU_POT6 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=MCU_POT7 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+3V3 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=+3V3 Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=+3V3 Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=+3V3 Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=+3V3 Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=+3V3 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=+3V3 Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=+3V3 Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=+3V3 Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=+3V3 Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=+3V3 Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+3V3 Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+3V3 Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=NetC26_2 Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=+3V3 Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=NetC28_2 Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=NetC29_2 Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=NetC32_2 Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=+5V Pin=D3-1
+Removed Pin From Net: NetName=+5V Pin=J10-1
+Removed Pin From Net: NetName=+3V3 Pin=J11-1
+Removed Pin From Net: NetName=BTN0 Pin=J11-2
+Removed Pin From Net: NetName=BTN1 Pin=J11-3
+Removed Pin From Net: NetName=BTN2 Pin=J11-4
+Removed Pin From Net: NetName=GND Pin=J11-5
+Removed Pin From Net: NetName=GND Pin=J12-1
+Removed Pin From Net: NetName=+3V3 Pin=J12-5
+Removed Pin From Net: NetName=+3V3 Pin=L1-1
+Removed Pin From Net: NetName=NetC26_2 Pin=L1-2
+Removed Pin From Net: NetName=+3V3 Pin=P1-1
+Removed Pin From Net: NetName=MCU_POT0 Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=+3V3 Pin=P2-1
+Removed Pin From Net: NetName=MCU_POT1 Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=+3V3 Pin=P3-1
+Removed Pin From Net: NetName=MCU_POT2 Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=+3V3 Pin=P4-1
+Removed Pin From Net: NetName=MCU_POT3 Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-3
+Removed Pin From Net: NetName=+3V3 Pin=P5-1
+Removed Pin From Net: NetName=MCU_POT4 Pin=P5-2
+Removed Pin From Net: NetName=GND Pin=P5-3
+Removed Pin From Net: NetName=+3V3 Pin=P6-1
+Removed Pin From Net: NetName=MCU_POT5 Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=+3V3 Pin=P7-1
+Removed Pin From Net: NetName=MCU_POT6 Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P7-3
+Removed Pin From Net: NetName=+3V3 Pin=P8-1
+Removed Pin From Net: NetName=MCU_POT7 Pin=P8-2
+Removed Pin From Net: NetName=GND Pin=P8-3
+Removed Pin From Net: NetName=+3V3 Pin=R2-1
+Removed Pin From Net: NetName=NetC32_2 Pin=R5-1
+Removed Pin From Net: NetName=NetC33_2 Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=BTN0 Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=BTN1 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=BTN2 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=+3V3 Pin=R12-2
+Removed Pin From Net: NetName=BTN3 Pin=R13-2
+Removed Pin From Net: NetName=+3V3 Pin=R14-1
+Removed Pin From Net: NetName=BOOT0 Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=BOOT0 Pin=R15-2
+Removed Pin From Net: NetName=+3V3 Pin=R16-1
+Removed Pin From Net: NetName=BOOT1 Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=BOOT1 Pin=R17-2
+Removed Pin From Net: NetName=GPIO0 Pin=R19-1
+Removed Pin From Net: NetName=GPIO1 Pin=R21-1
+Removed Pin From Net: NetName=GPIO2 Pin=R23-1
+Removed Pin From Net: NetName=GPIO3 Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=GPIO0 Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=GPIO1 Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=GPIO2 Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=GPIO3 Pin=R29-2
+Removed Pin From Net: NetName=MCU_USR_LED Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=MCU_USR_LED Pin=R32-2
+Removed Pin From Net: NetName=+3V3 Pin=R36-2
+Removed Pin From Net: NetName=+3V3 Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=+3V3 Pin=S2-3
+Removed Pin From Net: NetName=+3V3 Pin=S2-3
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Pin From Net: NetName=GND Pin=T2-2
+Removed Pin From Net: NetName=GND Pin=T3-2
+Removed Pin From Net: NetName=GND Pin=T4-2
+Removed Pin From Net: NetName=GND Pin=T5-2
+Removed Pin From Net: NetName=+3V3 Pin=U2-6
+Removed Pin From Net: NetName=ADR0 Pin=U2-10
+Removed Pin From Net: NetName=ADR1 Pin=U2-11
+Removed Pin From Net: NetName=ADR2 Pin=U2-12
+Removed Pin From Net: NetName=ADR3 Pin=U2-13
+Removed Pin From Net: NetName=ADR4 Pin=U2-14
+Removed Pin From Net: NetName=ADR5 Pin=U2-15
+Removed Pin From Net: NetName=GND Pin=U2-16
+Removed Pin From Net: NetName=+3V3 Pin=U2-17
+Removed Pin From Net: NetName=ADR6 Pin=U2-18
+Removed Pin From Net: NetName=ADR7 Pin=U2-19
+Removed Pin From Net: NetName=ADR8 Pin=U2-20
+Removed Pin From Net: NetName=ADR9 Pin=U2-21
+Removed Pin From Net: NetName=ADR10 Pin=U2-22
+Removed Pin From Net: NetName=MCU_POT2 Pin=U2-26
+Removed Pin From Net: NetName=MCU_POT3 Pin=U2-27
+Removed Pin From Net: NetName=MCU_POT4 Pin=U2-28
+Removed Pin From Net: NetName=MCU_POT5 Pin=U2-29
+Removed Pin From Net: NetName=+3V3 Pin=U2-30
+Removed Pin From Net: NetName=GND Pin=U2-31
+Removed Pin From Net: NetName=NetC26_2 Pin=U2-32
+Removed Pin From Net: NetName=NetC26_2 Pin=U2-33
+Removed Pin From Net: NetName=NetJ1_18 Pin=U2-37
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Pin From Net: NetName=+3V3 Pin=U2-39
+Removed Pin From Net: NetName=NetJ1_49 Pin=U2-40
+Removed Pin From Net: NetName=NetJ1_23 Pin=U2-41
+Removed Pin From Net: NetName=NetJ1_54 Pin=U2-42
+Removed Pin From Net: NetName=NetJ1_26 Pin=U2-43
+Removed Pin From Net: NetName=MCU_POT6 Pin=U2-44
+Removed Pin From Net: NetName=MCU_POT7 Pin=U2-45
+Removed Pin From Net: NetName=MCU_POT0 Pin=U2-46
+Removed Pin From Net: NetName=MCU_POT1 Pin=U2-47
+Removed Pin From Net: NetName=BOOT1 Pin=U2-48
+Removed Pin From Net: NetName=ADR11 Pin=U2-49
+Removed Pin From Net: NetName=ADR12 Pin=U2-50
+Removed Pin From Net: NetName=GND Pin=U2-51
+Removed Pin From Net: NetName=+3V3 Pin=U2-52
+Removed Pin From Net: NetName=ADR13 Pin=U2-53
+Removed Pin From Net: NetName=ADR14 Pin=U2-54
+Removed Pin From Net: NetName=ADR15 Pin=U2-55
+Removed Pin From Net: NetName=ADR16 Pin=U2-56
+Removed Pin From Net: NetName=ADR17 Pin=U2-57
+Removed Pin From Net: NetName=GND Pin=U2-61
+Removed Pin From Net: NetName=+3V3 Pin=U2-62
+Removed Pin From Net: NetName=GPIO0 Pin=U2-70
+Removed Pin From Net: NetName=NetC28_2 Pin=U2-71
+Removed Pin From Net: NetName=+3V3 Pin=U2-72
+Removed Pin From Net: NetName=GPIO1 Pin=U2-73
+Removed Pin From Net: NetName=GPIO2 Pin=U2-74
+Removed Pin From Net: NetName=GPIO3 Pin=U2-75
+Removed Pin From Net: NetName=MCU_USR_LED Pin=U2-76
+Removed Pin From Net: NetName=GND Pin=U2-83
+Removed Pin From Net: NetName=+3V3 Pin=U2-84
+Removed Pin From Net: NetName=ADR18 Pin=U2-87
+Removed Pin From Net: NetName=ADR19 Pin=U2-88
+Removed Pin From Net: NetName=ADR20 Pin=U2-89
+Removed Pin From Net: NetName=ADR21 Pin=U2-90
+Removed Pin From Net: NetName=ADR22 Pin=U2-91
+Removed Pin From Net: NetName=ADR23 Pin=U2-92
+Removed Pin From Net: NetName=GND Pin=U2-94
+Removed Pin From Net: NetName=+3V3 Pin=U2-95
+Removed Pin From Net: NetName=NetJ1_57 Pin=U2-100
+Removed Pin From Net: NetName=BTN0 Pin=U2-101
+Removed Pin From Net: NetName=BTN1 Pin=U2-102
+Removed Pin From Net: NetName=BTN2 Pin=U2-103
+Removed Pin From Net: NetName=BTN3 Pin=U2-104
+Removed Pin From Net: NetName=NetC29_2 Pin=U2-106
+Removed Pin From Net: NetName=GND Pin=U2-107
+Removed Pin From Net: NetName=+3V3 Pin=U2-108
+Removed Pin From Net: NetName=DATA0 Pin=U2-114
+Removed Pin From Net: NetName=DATA1 Pin=U2-115
+Removed Pin From Net: NetName=DATA2 Pin=U2-116
+Removed Pin From Net: NetName=DATA3 Pin=U2-117
+Removed Pin From Net: NetName=DATA4 Pin=U2-118
+Removed Pin From Net: NetName=DATA5 Pin=U2-119
+Removed Pin From Net: NetName=GND Pin=U2-120
+Removed Pin From Net: NetName=+3V3 Pin=U2-121
+Removed Pin From Net: NetName=DATA6 Pin=U2-122
+Removed Pin From Net: NetName=DATA7 Pin=U2-123
+Removed Pin From Net: NetName=GND Pin=U2-130
+Removed Pin From Net: NetName=+3V3 Pin=U2-131
+Removed Pin From Net: NetName=BOOT0 Pin=U2-138
+Removed Pin From Net: NetName=+3V3 Pin=U2-144
+Removed Pin From Net: NetName=NetC32_2 Pin=X1-1
+Removed Pin From Net: NetName=NetC33_2 Pin=X1-2
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C13
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C14
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C15
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C16
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C17
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C18
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C19
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C20
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C21
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C22
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C23
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C24
+Removed Member From Class: ClassName=U_SNES_DRONE_PSU Member=C25
+Change Footprint: Footprint Not Found TSSOP24
+Change Component Comment : Designator=C5 Old Comment=10n/50V New Comment=100n/16V
+Change Component Comment : Designator=C6 Old Comment=10n/50V New Comment=100n/16V
+Change Component Comment : Designator=C7 Old Comment=10n/50V New Comment=100n/16V
+Change Component Comment : Designator=C8 Old Comment=10n/50V New Comment=100n/16V
+Change Component Comment : Designator=C9 Old Comment=10n/50V New Comment=100n/16V
+Change Component Comment : Designator=C10 Old Comment=10n/50V New Comment=100n/16V
+Change Component Comment : Designator=U2 Old Comment=STM32F446ZE New Comment=IC_SN74LVCC3245APWR
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0402_RES"; UniqueID = "\IDWQIKYO\XUUYKLMP" ("\IDWQIKYO\XUUYKLMP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1901289.pdf?_ga=2.126104776.453785206.1540794792-1293375253.1539206166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/multicomp/mc0402x104k160ct/kondensator-0-1-f-16v-10-x5r-0402/dp/1759388?st=1%C2%B5F%20SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2046096.pdf?_ga=2.184862249.1080119096.1514547302-1693477411.1514385574"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "farnell number"; Value = "1759388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MC0402X104K160CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1760121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0402_RES"; UniqueID = "\IDWQIKYO\HHZOFFPE" ("\IDWQIKYO\HHZOFFPE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1901289.pdf?_ga=2.126104776.453785206.1540794792-1293375253.1539206166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/multicomp/mc0402x104k160ct/kondensator-0-1-f-16v-10-x5r-0402/dp/1759388?st=1%C2%B5F%20SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2046096.pdf?_ga=2.184862249.1080119096.1514547302-1693477411.1514385574"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "farnell number"; Value = "1759388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MC0402X104K160CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1760121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0402_RES"; UniqueID = "\IDWQIKYO\EIKMLODO" ("\IDWQIKYO\EIKMLODO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1901289.pdf?_ga=2.126104776.453785206.1540794792-1293375253.1539206166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/multicomp/mc0402x104k160ct/kondensator-0-1-f-16v-10-x5r-0402/dp/1759388?st=1%C2%B5F%20SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2046096.pdf?_ga=2.184862249.1080119096.1514547302-1693477411.1514385574"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "farnell number"; Value = "1759388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MC0402X104K160CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1760121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0402_RES"; UniqueID = "\IDWQIKYO\DFCXFYXI" ("\IDWQIKYO\DFCXFYXI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1901289.pdf?_ga=2.126104776.453785206.1540794792-1293375253.1539206166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/multicomp/mc0402x104k160ct/kondensator-0-1-f-16v-10-x5r-0402/dp/1759388?st=1%C2%B5F%20SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2046096.pdf?_ga=2.184862249.1080119096.1514547302-1693477411.1514385574"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "farnell number"; Value = "1759388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MC0402X104K160CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1760121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "0402_RES"; UniqueID = "\IDWQIKYO\UEWDMMJY" ("\IDWQIKYO\UEWDMMJY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1901289.pdf?_ga=2.126104776.453785206.1540794792-1293375253.1539206166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/multicomp/mc0402x104k160ct/kondensator-0-1-f-16v-10-x5r-0402/dp/1759388?st=1%C2%B5F%20SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2046096.pdf?_ga=2.184862249.1080119096.1514547302-1693477411.1514385574"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "farnell number"; Value = "1759388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MC0402X104K160CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1760121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0402_RES"; UniqueID = "\IDWQIKYO\KXSRPRBF" ("\IDWQIKYO\KXSRPRBF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1901289.pdf?_ga=2.126104776.453785206.1540794792-1293375253.1539206166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/multicomp/mc0402x104k160ct/kondensator-0-1-f-16v-10-x5r-0402/dp/1759388?st=1%C2%B5F%20SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.farnell.com/datasheets/2046096.pdf?_ga=2.184862249.1080119096.1514547302-1693477411.1514385574"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "farnell number"; Value = "1759388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MC0402X104K160CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Order Qty 1"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1760121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,0226"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "LQFP144_SMALL_PADS"; UniqueID = "\IDWQIKYO\LERZKENH" ("\IDWQIKYO\LERZKENH")
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "datsheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lvcc3245a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://at.farnell.com/texas-instruments/sn74lvcc3245apwr/bus-transceiver-8bit-tssop-24/dp/2854646?rpsku=rel3%3A2119962&st=2119962"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "TEXAS INSTRUMENTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SN74LVCC3245APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Order Qty 1"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2854646"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Unit Price 1"; Value = "0,99"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TSSOP24
+Add Component: Footprint Not Found TSSOP24
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=+3V3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=+3V3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+5V Pin=U2-1
+Added Pin To Net: NetName=ADR0 Pin=U2-3
+Added Pin To Net: NetName=ADR1 Pin=U2-4
+Added Pin To Net: NetName=ADR2 Pin=U2-5
+Added Pin To Net: NetName=ADR3 Pin=U2-6
+Added Pin To Net: NetName=ADR4 Pin=U2-7
+Added Pin To Net: NetName=ADR5 Pin=U2-8
+Added Pin To Net: NetName=ADR6 Pin=U2-9
+Added Pin To Net: NetName=ADR7 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=MCU_POT6 Pin=U2-14
+Added Pin To Net: NetName=MCU_POT7 Pin=U2-15
+Added Pin To Net: NetName=MCU_USR_LED Pin=U2-16
+Added Pin To Net: NetName=NetC26_2 Pin=U2-17
+Added Pin To Net: NetName=NetC28_2 Pin=U2-18
+Added Pin To Net: NetName=NetC29_2 Pin=U2-19
+Added Pin To Net: NetName=NetC32_2 Pin=U2-20
+Added Pin To Net: NetName=NetC33_2 Pin=U2-21
+Added Pin To Net: NetName=+3V3 Pin=U2-24
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Add Pin To Net: Unknown Pin: Pin U5-11
+Add Pin To Net: Unknown Pin: Pin U5-12
+Add Pin To Net: Unknown Pin: Pin U5-13
+Add Pin To Net: Unknown Pin: Pin U5-14
+Add Pin To Net: Unknown Pin: Pin U5-15
+Add Pin To Net: Unknown Pin: Pin U5-16
+Add Pin To Net: Unknown Pin: Pin U5-17
+Add Pin To Net: Unknown Pin: Pin U5-18
+Add Pin To Net: Unknown Pin: Pin U5-19
+Add Pin To Net: Unknown Pin: Pin U5-20
+Add Pin To Net: Unknown Pin: Pin U5-21
+Add Pin To Net: Unknown Pin: Pin U5-24
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-12
+Add Pin To Net: Unknown Pin: Pin U6-13
+Add Pin To Net: Unknown Pin: Pin U6-14
+Add Pin To Net: Unknown Pin: Pin U6-15
+Add Pin To Net: Unknown Pin: Pin U6-16
+Add Pin To Net: Unknown Pin: Pin U6-17
+Add Pin To Net: Unknown Pin: Pin U6-18
+Add Pin To Net: Unknown Pin: Pin U6-19
+Add Pin To Net: Unknown Pin: Pin U6-20
+Add Pin To Net: Unknown Pin: Pin U6-21
+Add Pin To Net: Unknown Pin: Pin U6-24
+Change Net Name : Old Net Name=BOOT0 New Net Name=A3V323
+Change Net Name : Old Net Name=BOOT1 New Net Name=A3V322
+Change Net Name : Old Net Name=BTN0 New Net Name=A3V321
+Change Net Name : Old Net Name=BTN1 New Net Name=A3V320
+Change Net Name : Old Net Name=BTN2 New Net Name=A3V319
+Change Net Name : Old Net Name=BTN3 New Net Name=A3V318
+Change Net Name : Old Net Name=GPIO0 New Net Name=A3V317
+Change Net Name : Old Net Name=GPIO1 New Net Name=A3V316
+Change Net Name : Old Net Name=GPIO2 New Net Name=A3V315
+Change Net Name : Old Net Name=GPIO3 New Net Name=A3V314
+Change Net Name : Old Net Name=MCU_POT0 New Net Name=A3V313
+Change Net Name : Old Net Name=MCU_POT1 New Net Name=A3V312
+Change Net Name : Old Net Name=MCU_POT2 New Net Name=A3V311
+Change Net Name : Old Net Name=MCU_POT3 New Net Name=A3V310
+Change Net Name : Old Net Name=MCU_POT4 New Net Name=A3V39
+Change Net Name : Old Net Name=MCU_POT5 New Net Name=A3V38
+Change Net Name : Old Net Name=MCU_POT6 New Net Name=A3V37
+Change Net Name : Old Net Name=MCU_POT7 New Net Name=A3V36
+Change Net Name : Old Net Name=MCU_USR_LED New Net Name=A3V35
+Change Net Name : Old Net Name=NetC26_2 New Net Name=A3V34
+Change Net Name : Old Net Name=NetC28_2 New Net Name=A3V33
+Change Net Name : Old Net Name=NetC29_2 New Net Name=A3V32
+Change Net Name : Old Net Name=NetC32_2 New Net Name=A3V31
+Change Net Name : Old Net Name=NetC33_2 New Net Name=A3V30
+Added Member To Class: ClassName=U_SNES_DRONE_CART Member=Component C5 100n/16V
+Added Member To Class: ClassName=U_SNES_DRONE_CART Member=Component C6 100n/16V
+Added Member To Class: ClassName=U_SNES_DRONE_CART Member=Component C7 100n/16V
+Added Member To Class: ClassName=U_SNES_DRONE_CART Member=Component C8 100n/16V
+Added Member To Class: ClassName=U_SNES_DRONE_CART Member=Component C9 100n/16V
+Added Member To Class: ClassName=U_SNES_DRONE_CART Member=Component C10 100n/16V
+Added Member To Class: ClassName=U_SNES_DRONE_CART Member=Component U2 IC_SN74LVCC3245APWR
+Add Class Member: Failed to add class member : Component U5 IC_SN74LVCC3245APWR
+Add Class Member: Failed to add class member : Component U6 IC_SN74LVCC3245APWR
