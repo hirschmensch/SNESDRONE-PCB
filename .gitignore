@@ -1,0 +1,37 @@
+# Altium project files
+*.PrjPcb
+*.PrjSch
+*.PrjBom
+*.PrjFpg
+
+# Design documents and generated files
+*.OutJob
+*.SchDoc
+*.SchLib
+*.PcbDoc
+*.PcbLib
+*.PcbPrj
+*.PrjPCBStructure
+*.BomDoc
+*.Cam
+
+# Intermediate and backup files
+*~*
+*.tmp
+*.bak
+*.drc
+*.bkp
+*.log
+*.rpt
+
+# Simulation files
+*.sim
+*.nsx
+*.nscrc
+
+# Output folders
+/GeneratedFiles/
+/ProjectOutputs/
+/OutputJobFiles/
+/__Previews
+/Workspace
