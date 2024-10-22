@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SNESDRONE_Direct_IO.PrjPcb]
+   Generated File[SNESDRONE_Direct_IO.TXT]
+   Generated File[SNESDRONE_Direct_IO.LDP]
+   Generated File[SNESDRONE_Direct_IO.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:55:04 On 2024/10/22
