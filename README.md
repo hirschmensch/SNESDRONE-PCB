@@ -8,8 +8,9 @@ This branch is focused on the development of the FPGA interface for the SNESDRON
 - **Power Supply**: Power supply for the Arty Z7 is under consideration and still needs to be designed.
 
 ## Status
-- Current development includes generating the footprint for the Arty Z7 and completing the PCB layout.
-- The firmware to control the SNES data and address buses is in development.
+- The PCB layout has been completed, and the board has been ordered.
+- The next steps include testing the PCB and developing an FPGA design for the Zynq 7000 on the Digilent Arty Z7 20 Board.
+- The FPGA design will simulate a ROM memory, allowing the execution of small programs on the SNES.
 
 ## Branches
 - **Master Branch**: Contains the first release version of the PCB, which is fully functional without the FPGA interface.
