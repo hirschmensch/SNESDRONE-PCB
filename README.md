@@ -1,5 +1,7 @@
 # SNESDRONE-PCB (Direct_IO Branch)
 
+![3D View of PCB](images/2024-10-22_pcb.png)
+
 This branch is focused on the development of the FPGA interface for the SNESDRONE cartridge. The goal is to allow direct control of the SNES data and address buses using a Digilent Arty Z7 board mounted on the cartridge.
 
 ## Features (Work in Progress)
