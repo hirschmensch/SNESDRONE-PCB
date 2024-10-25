@@ -52,3 +52,6 @@ Workspace/
 # Allow specific output folders (e.g. could have different names)
 !ProjectOutputs**/
 !OutputJobFiles**/
+
+# Do not ignore any files in Documentation folder
+!documentation/**
