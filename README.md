@@ -18,6 +18,12 @@ This branch is focused on the development of the FPGA interface for the SNESDRON
 - **Master Branch**: Contains the first release version of the PCB, which is fully functional without the FPGA interface.
 - **Direct_IO Branch**: Contains the ongoing development of the FPGA interface.
 
+### Other Repositories
+- [SNES-FPGA-IO](https://github.com/michael-hirschmugl/SNES-FPGA-IO)
+  - FPGA project to interface all pins on a SNES cart using a Digilent Arty Z7 SoC board.
+- [SNES-SW-Template](https://github.com/michael-hirschmugl/SNES-SW-Template)
+  - A flexible template for developing SNES software projects, featuring sample code for graphics, audio, and input handling, compatible with BSNES.
+
 For more details about the project and updates, visit the [Hackaday page](https://hackaday.io/project/162633-snes-drone).
 
 ## Installation
